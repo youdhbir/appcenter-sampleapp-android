@@ -22,8 +22,8 @@
         <uses-library android:name="android.test.runner" />
     </application>
 
-    <instrumentation
-        android:name="android.support.test.runner.AndroidJUnit4"
+    <!--<instrumentation
+        android:name="android.support.test.runner.AndroidJUnitRunner"
         android:targetPackage="com.example.mobilecenter.sampleapp_android" />
-
+    -->
 </manifest>
